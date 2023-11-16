@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pircbot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../pircbot.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive - The University of Texas at Dallas/Downloads/gson-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../pircbot.jar!/" />
+    </SOURCES>
+  </library>
+</component>
