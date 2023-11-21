@@ -18,6 +18,10 @@ This Java IRC bot is a simple and extensible project written using the PircBot l
   - Utilizes the OpenWeatherMap API to fetch and display the current weather for the specified location.
   - Requires an OpenWeatherMap API key, which should be added to the `.env` file.
 
+## Example Image
+   ![image](https://github.com/RohanKalyanpura/Api-Bot/assets/45616845/ff72db1c-449a-4595-8ce3-ce916c01286c)
+
+
 ## Usage
 
 Follow these steps to set up and run the Java IRC bot:
